@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-05-25 06:11:19
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.22
+WORDPRESS:	4.2.2
+PHP INFO:	5.6.3 | SAPI: apache2handler
+SERVER:		Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.6.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 18.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:19 | filtered:0 | create:19 
+FILTERED: [] 
+SQL CREATED: 20150525_kvbattery_5562bca75abb31519150525060943_database.sql 
+SQL FILE SIZE: 1017.99KB 
+SQL FILE TIME: 2015-05-25 06:11:20 
+SQL RUNTIME: 0.44 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  D:/xampp/htdocs/wordpress_dev 
+ARCHIVE FILE: 20150525_kvbattery_5562bca75abb31519150525060943_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	77MB 
+STATS:	Dirs 664 | Files 5,711 | Links 0 
+SQL ADDED: 20150525_kvbattery_5562bca75abb31519150525060943_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6375
+    [filename] => D:\xampp\htdocs\wordpress_dev\wp-snapshots\tmp\20150525_kvbattery_5562bca75abb31519150525060943_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 54.47MB 
+ARCHIVE RUNTIME: 32.08 sec. 
+MEMORY STACK: 20MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [D:/xampp/htdocs/wordpress_dev/wp-snapshots/tmp/20150525_kvbattery_5562bca75abb31519150525060943_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1017.99KB 
+Installer File: 317.99KB 
+Archive File: 54.47MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 35.00 sec.
+PEAK PHP MEMORY USED: 22MB
+DONE PROCESSING => 20150525_kvbattery 2015-05-25 06:11:54
+ 
